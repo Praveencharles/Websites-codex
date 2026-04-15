@@ -7,4 +7,3 @@ Simple Websites built by using html css and javascript, it contains images folde
 
 
 
-
